@@ -61,5 +61,4 @@ public int 	getDistanceIndex(final int distance , int[] Values){
     总结:重写和抽取是必须的，所以这是之后的工作！(自定义View 彻底完结之后)!
     
     不喜勿喷！！！！！！
-
-![]()
+    ![](https://github.com/wanglyGithub/LineGraph/blob/master/app/src/main/res/preview/test.gif)
