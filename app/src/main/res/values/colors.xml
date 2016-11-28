@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="radio_button_selected_color">#0ea3f3</color>
+    <color name="radio_button_unselected_color">@android:color/transparent</color>
+</resources>

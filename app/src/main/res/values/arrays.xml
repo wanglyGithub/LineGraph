@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="TimeArray">
+
+        <item>4/19</item>
+        <item>4/18</item>
+        <item>4/17</item>
+        <item>4/16</item>
+        <item>4/15</item>
+        <item>4/14</item>
+        <item>4/13</item>
+        <item>4/12</item>
+        <item>4/11</item>
+        <item>4/10</item>
+        <item>4/9</item>
+        <item>4/8</item>
+        <item>4/7</item>
+        <item>4/6</item>
+        <item>4/5</item>
+        <item>4/4</item>
+        <item>4/3</item>
+        <item>4/2</item>
+        <item>4/1</item>
+        <item>3/30</item>
+        <item>3/29</item>
+        <item>3/28</item>
+        <item>3/27</item>
+        <item>3/26</item>
+        <item>3/25</item>
+        <item>3/24</item>
+        <item>3/23</item>
+        <item>3/22</item>
+        <item>3/21</item>
+        <item>3/20</item>
+
+    </string-array>
+
+    <integer-array name="ResultArray">
+
+        <item>10000</item>
+        <item>1000</item>
+        <item>18000</item>
+        <item>16000</item>
+        <item>8000</item>
+        <item>12000</item>
+
+        <item>1300</item>
+        <item>1000</item>
+        <item>1800</item>
+        <item>1600</item>
+        <item>800</item>
+        <item>200</item>
+
+
+        <item>1300</item>
+        <item>1000</item>
+        <item>1800</item>
+        <item>1600</item>
+        <item>800</item>
+        <item>200</item>
+
+        <item>1300</item>
+        <item>1000</item>
+        <item>1800</item>
+        <item>1600</item>
+        <item>800</item>
+        <item>200</item>
+
+        <item>1300</item>
+        <item>1000</item>
+        <item>1800</item>
+        <item>800</item>
+        <item>2000</item>
+        <item>1500</item>
+
+    </integer-array>
+
+
+
+</resources>

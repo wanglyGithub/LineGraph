@@ -1,0 +1,10 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+    <item android:state_selected="true" android:color="#FFA500" />
+    <item android:state_focused="true" android:color="#FFA500" />
+    -->
+    <item android:state_pressed="true" android:color="#FFA500"/>
+    <item android:color="#6A5ACD"/>
+
+</selector>
