@@ -7,10 +7,13 @@ Scroll LineGraph
 
 比如，获取距离的指数：
 
-public int 	getDistanceIndex(final int distance , int[] Values){
+     public int getDistanceIndex(final int distance , int[] Values){
 		if (distance < Values[0] || distance > Values[Values.length-1]) {
 			return -1;
 		}
+		int index = Values.length -1;
+		int start = Values.length / 2;
+		int value = Values[start];
 		int index = Values.length -1;
 		int start = Values.length / 2;
 		int value = Values[start];
